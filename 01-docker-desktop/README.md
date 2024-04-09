@@ -284,7 +284,7 @@ docker exec -it workshop-container bash
 ```
 
 Locate to the folder where the data from the
-volume is mounted to and add a file. You see a
+volume is mounted to and add a file. Do you see a
 change in the _data_ tab in Docker Desktop?
 
 <details>
