@@ -203,7 +203,7 @@ Figure out how much memory the container uses.
 
 Click on the running container in Docker Desktop
 and see the `Stats` tab and see that the container
-uses ~4 MB memory
+uses ~12 MB memory
 (results may vary slightly)
 </details>
 
