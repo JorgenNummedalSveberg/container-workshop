@@ -170,6 +170,7 @@ remember to change the template-path to the path where you
 cloned the repository to. Make sure you
 have `container-workshop` as your working
 directory or adapt the destination path below.
+If you are doing this in windows CMD, use `copy` in place of `cp` and `move` instead of mv.
 
 ```bash
 # Copy - recommended:
